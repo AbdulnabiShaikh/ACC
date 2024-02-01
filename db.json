@@ -1,0 +1,21 @@
+{
+    "projects": [
+      {
+        "title": "Smile Crowdfunding",
+        "description": "This foundation will bring smile on their faces",
+        "imageUrl": "https://example.com/image1.jpg",
+        "funded": 500,
+        "goal": 5000,
+        "timeLeft": 36
+      },
+      {
+        "title": "Animal Funding",
+        "description": "This foundation will help animals",
+        "imageUrl": "https://example.com/image2.jpg",
+        "funded": 200,
+        "goal": 10000,
+        "timeLeft": 32
+      }
+    ]
+  }
+  
